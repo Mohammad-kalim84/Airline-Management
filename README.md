@@ -61,7 +61,7 @@ If the file is missing or not found, the program will display an appropriate err
 
 ---
 
-##🧠 Core Concepts Demonstrated
+🧠 Core Concepts Demonstrated
 - Python data structures (lists, dictionaries, sets)
 - Matrix-based representation of relationships
 - File handling and exception handling
@@ -87,7 +87,7 @@ If the file is missing or not found, the program will display an appropriate err
 
 ---
 
-👤 Author : [Mohammad Kalim](GitHub: https://github.com/Mohammad-kalim84)
+👤 Author : [Mohammad Kalim](https://github.com/Mohammad-kalim84)
 
 ---
 
@@ -96,4 +96,5 @@ If the file is missing or not found, the program will display an appropriate err
 --- 
 
 📜 License
+
 This project is open-source and available for educational use.
