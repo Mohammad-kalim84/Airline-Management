@@ -1,4 +1,4 @@
-# ✈️ Airline Management System (Python)
+<img width="1312" height="427" alt="image" src="https://github.com/user-attachments/assets/fbc9b867-f932-4ed3-9adc-0f97c92ff638" /># ✈️ Airline Management System (Python)
 
 A console-based Airline Management System developed in Python.  
 This project simulates airline routes between different countries and manages airline-related data using structured data and matrix representations.
@@ -35,7 +35,7 @@ Copy code
 1. Make sure Python 3 is installed on your system.
 2. Install the required dependency:
 
-`bash
+```bash
 pip install colorama
 
 3. Ensure both files are in the same directory:
