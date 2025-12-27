@@ -87,18 +87,11 @@ If the file is missing or not found, the program will display an appropriate err
 
 ---
 
-👤 Author
-Mohammad Kalim
-GitHub: https://github.com/Mohammad-kalim84
+👤 Author : [Mohammad Kalim](GitHub: https://github.com/Mohammad-kalim84)
 
 ---
 
-👨‍🏫 Supervisor
-This project was developed under the supervision of:
-
-[Supervisor Name]
-[Title / Position]
-[University or Institution Name]
+👨‍🏫 Supervisor : [Daniyal Iran Mehr](https://github.com/DaniaylIranMehr)
 
 --- 
 
