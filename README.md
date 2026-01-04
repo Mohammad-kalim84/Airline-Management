@@ -93,8 +93,4 @@ If the file is missing or not found, the program will display an appropriate err
 
 👨‍🏫 Supervisor : [Daniyal Iran Mehr](https://github.com/DaniaylIranMehr)
 
---- 
 
-📜 License
-
-This project is open-source and available for educational use.
